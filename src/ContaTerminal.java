@@ -10,6 +10,6 @@ public class ContaTerminal {
     public static void main(String[] args) throws Exception {
         System.out.println("Por favor, digite o nome da Agência !");
 
-        System.out.println("Olá, " + nome + ", obrigado p")
+        System.out.println("Olá,  obrigado p");
     }
 }
